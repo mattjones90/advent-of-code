@@ -1,6 +1,6 @@
 const { runSolution } = require("./runSolution");
 
-const days = 5;
+const days = 6;
 
 for(let day = 1; day <= days; day++) {
     try {
