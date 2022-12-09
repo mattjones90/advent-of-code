@@ -1,0 +1,34 @@
+sample for day 1-1 matched expected: 24000
+sample for day 1-2 matched expected: 45000
+solution for day 1-1: 69206
+solution for day 1-2: 197400
+sample for day 2-1 matched expected: 15
+sample for day 2-2 matched expected: 12
+solution for day 2-1: 13009
+solution for day 2-2: 10398
+sample for day 3-1 matched expected: 157
+sample for day 3-2 matched expected: 70
+solution for day 3-1: 7807
+solution for day 3-2: 2508
+sample for day 4-1 matched expected: 2
+sample for day 4-2 matched expected: 4
+solution for day 4-1: 542
+solution for day 4-2: 900
+sample for day 5-1 matched expected: CMZ
+sample for day 5-2 matched expected: MCD
+solution for day 5-1: QPJPLMNNR
+solution for day 5-2: BQDNWJPVJ
+sample for day 6-1 matched expected: 7
+sample for day 6-2 matched expected: 19
+solution for day 6-1: 1816
+solution for day 6-2: 2625
+sample for day 7-1 matched expected: 95437
+sample for day 7-2 matched expected: 24933642
+solution for day 7-1: 1432936
+solution for day 7-2: 272298
+sample for day 8-1 matched expected: 21
+sample for day 8-2 matched expected: 8
+solution for day 8-1: 1851
+solution for day 8-2: 574080
+sample for day 9-1 matched expected: 88
+sample for day 9-2 matched expected: 36
