@@ -28,7 +28,3 @@ solution for day 7-1: 1432936
 solution for day 7-2: 272298
 sample for day 8-1 matched expected: 21
 sample for day 8-2 matched expected: 8
-solution for day 8-1: 1851
-solution for day 8-2: 574080
-sample for day 9-1 matched expected: 88
-sample for day 9-2 matched expected: 36

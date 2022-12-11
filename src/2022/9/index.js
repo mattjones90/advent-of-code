@@ -133,11 +133,12 @@ function printRope(rope) {
 
     grid.reverse()
 
-    let s = ''
+    let s = []
     for (let i = 0; i < grid.length; i++) {
-        s += grid[i].join('') + '\n';
+        s.push(grid[i].join(''),'\n');
     }
-    return s += '\n';
+    s.push('\n')
+    return s.join();
 }
 
 function run(input, part) {
