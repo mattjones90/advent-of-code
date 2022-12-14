@@ -88,11 +88,9 @@ function run(input, part) {
 
     if (part === 2) {
         const startNodes = nodes.filter(node => node.elevation == 0);
-        console.log(startNodes)
         let min = Number.MAX_VALUE;
         for (let i = 0; i < startNodes.length; i++) {
             min = Math.min(min, shortestPathDistance(nodes, startNodes[i], end));
-            console.log(i, min)
         }
         return min;
     }
